@@ -1,0 +1,5 @@
+Decorate: Bouncy, Tormentor667
+GLDefs: Sandypaper (Brightmaps)
+Sounds: Zippy
+Sprites: Id Software
+Sprite Edit: Vader, Tormentor667 (recolor)

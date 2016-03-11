@@ -1,0 +1,7 @@
+Submitted: scalliano, mattbratt11 (update)
+Decorate: scalliano, mattbratt11
+GLDefs: scalliano
+Sounds: Kaiser
+Sprites: Id Software
+Sprite Edit: scalliano, mattbratt11
+Idea Base: Outcast Levels from the Doom64 TC

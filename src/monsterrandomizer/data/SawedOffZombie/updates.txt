@@ -1,0 +1,4 @@
+06-23-2015 - MagicWazard:
+* Added brightmaps.
+* Added INFO and CREDITS lumps.
+* Fixed offset for some sprites.

@@ -1,0 +1,6 @@
+Decorate: Eriance
+GLDEFs: Ghastly Dragon, SandyPaper (Brightmaps)
+Sounds: Id Software, Midway
+Sprites: Id Software
+Sprite Edit: Eriance
+Idea Base: Doom Spider Mastermind

@@ -1,0 +1,8 @@
+Name: Dark Imp (Skulltag)
+Difficulty: Easy
+Connection: Dark Imp variants
+Summon: STDarkImp
+Melee: Yes
+Distance: Projectile
+Type: Demon
+Brightmaps: Yes

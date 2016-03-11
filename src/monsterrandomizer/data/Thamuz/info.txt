@@ -1,0 +1,8 @@
+Name: Thamuz
+Difficulty: Very Hard
+Connection: none
+Summon: Thamuz
+Melee: No
+Distance: Projectile, Tracer
+Type: Demon, Cybernetic
+Brightmaps: Yes

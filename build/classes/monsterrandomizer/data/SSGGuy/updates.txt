@@ -1,0 +1,2 @@
+06-23-2015 - MagicWazard:
+* Added brightmaps.

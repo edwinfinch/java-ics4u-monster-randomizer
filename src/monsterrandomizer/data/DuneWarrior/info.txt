@@ -1,0 +1,8 @@
+Name: Dune Warrior
+Difficulty: Easy
+Connection: Uses sounds and projectile from Catharsi, included
+Summon: DuneWarrior
+Melee: No
+Distance: Projectile, Hitscan
+Type: Human, Undead
+Brightmaps: Yes

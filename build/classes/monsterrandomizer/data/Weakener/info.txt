@@ -1,0 +1,9 @@
+Name: Weakener
+Difficulty: Easy
+Connections: None
+Summon: Weakener
+Melee: No
+Distance: Projectile
+Type: Demon
+Added States: No
+ACS: No

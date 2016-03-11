@@ -1,0 +1,6 @@
+Submitted: Xim
+Decorate: Xim
+GLDefs: Xim, MagicWazard (brightmaps)
+Sounds: id Software, Monolith Productions
+Sprites: id Software
+Sprite Edit: Xim

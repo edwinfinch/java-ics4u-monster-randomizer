@@ -1,0 +1,7 @@
+Submitted: MagicWazard
+Decorate: MagicWazard
+GLDefs: MagicWazard
+Sounds: id Software, Midway Software
+Sprites: id Software
+Sprite Edit: MagicWazard
+Idea Base: Phantom from Doom RPG/Doom II RPG

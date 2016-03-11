@@ -1,0 +1,5 @@
+Decorate: Vader, Tormentor667
+GLDEFs: Keksdose, Ghastly Dragon, Sandypaper (Brightmaps)
+Sounds: Id Software, Wildweasel, Vader
+Sprites: Vader
+Idea Base: Tormentor667

@@ -1,0 +1,7 @@
+Name: Chaingun Spider
+Difficulty: Medium
+Connection: None
+Summon: CGunSpider
+Melee: No
+Distance: Hitscan
+Type: Demon, Cybernetic

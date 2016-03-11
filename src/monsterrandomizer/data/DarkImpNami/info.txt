@@ -1,0 +1,8 @@
+Name: Dark Imp (Nami)
+Difficulty: Easy
+Connection: Dark Imp variants
+Summon: NamiDarkImp
+Melee: Yes
+Distance: Projectile
+Type: Demon
+Brightmaps: Yes

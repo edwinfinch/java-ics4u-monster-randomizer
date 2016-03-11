@@ -1,0 +1,7 @@
+Name: Zombie Sniper
+Difficulty: Easy
+Connection: None
+Summon: SniperRifleGuy
+Melee: No
+Distance: Hitscan, Projectile
+Type: Human, Undead

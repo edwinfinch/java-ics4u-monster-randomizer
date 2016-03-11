@@ -1,0 +1,5 @@
+Decorate: Graf Zahl
+GLDEFs: Lights.pk3, Sandypaper (Brightmaps)
+Sounds: Id Software, Rogue Entertainment
+Sprites: Id Software
+Sprite Edit: NMN, Tormentor667

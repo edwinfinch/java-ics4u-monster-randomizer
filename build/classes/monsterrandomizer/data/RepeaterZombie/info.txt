@@ -1,0 +1,7 @@
+Name: Repeater Zombie
+Difficulty: Medium/Hard
+Connection: Uses the Repeater, on the Armory
+Summon: RepeaterZombie
+Melee: No
+Distance: Hitscan
+Type: Human, Undead

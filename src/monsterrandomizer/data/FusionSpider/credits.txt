@@ -1,0 +1,5 @@
+Decorate: Tormentor667
+GLDEFs: Dreadopp, Sandypaper (Brightmaps)
+Sounds: Id Software, Raven Software
+Sprites: Id Software
+Sprite Edit: InsanityBringer, Tormentor667

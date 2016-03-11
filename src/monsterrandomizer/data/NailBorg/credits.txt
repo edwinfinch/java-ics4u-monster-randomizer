@@ -1,0 +1,6 @@
+Submitted: Mechadon
+Decorate: Mechadon
+GLDEFs: Dreadopp
+Sounds: Id Software (Quake)
+Sprites: Id Software, 3D Realms
+Sprite Edit: Neoworm

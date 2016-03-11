@@ -1,0 +1,7 @@
+Submitted: scalliano
+Decorate: scalliano, Mechadon
+GLDefs: Ghastly_dragon, Sandypaper (brightmaps)
+Sounds: Unknown, Mechadon
+Sprites: Id Software, Ghastly_dragon, Eriance
+Sprite Edit: scalliano
+Idea Base: Karasawa from Armored Core

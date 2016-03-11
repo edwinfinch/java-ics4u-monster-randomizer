@@ -1,0 +1,7 @@
+Submitted: CthulhuCultist
+Decorate: CthulhuCultist
+GLDefs: CthulhuCultist
+Sounds: Monolith, Id software
+Sprites: Id Software, Captain Red's Zombieman with fixed left arm(unsure who did it), Xim's Jawless head, KDIZD
+Sprite Edit: CthulhuCultist
+Idea Base: Condemned and C&C 3 oddly

@@ -1,0 +1,8 @@
+Name: Karasawa Zombie
+Difficulty: Medium
+Connections: None
+Palette: Custom
+Summon: KarasawaGuy
+Melee: None
+Distance: Projectile
+Type: Undead

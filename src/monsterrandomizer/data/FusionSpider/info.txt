@@ -1,0 +1,8 @@
+Name: Fusion Arachno
+Difficulty: Hard
+Connection: none
+Summon: FusionSpider
+Melee: No
+Distance: Projectile
+Type: Demon, Cybernetic
+Brightmaps: Yes

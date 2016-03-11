@@ -1,0 +1,23 @@
+11-01-2013 - MagicWazard:
+-- Hades Elemental --
+* Updated included Hades Sphere's behavior.  See below.
+* Converted sprites to PNG and audio to OGG.
+* Added editor tags to DECORATE.
+* Assigned decal "CacoScorch" to "HadesBall".
+* Fixed typo in GLDEFS; "HadesBolt1" corrected to "HadesBolt".
+* Corrected brightmap assignment for sprite "HELEB2B8" from "BMHELEB2b8" to "BMHELEB2".
+* Commented out some GLDEF assignments that were unused or redundant.  Commented that some light definitions are unused by actor.
+* Replaced NULL with TNT1.
+
+-- Hades Sphere --
+* Fixed selfdestruct behavior for proper kill tracking and to prevent "failure" of selfdestruct.
+* Fixed "chase" behavior so it won't misbehave when spawned via "A_PainAttack" or "A_DualPainAttack."
+* Monster no longer attempts to selfdestruct while in teleport sequence.
+* Removed "HSBoom" actor and transferred selfdestruct properties to a parameterized "A_Explode".
+* Increased bounding box size to better match sprite size.
+* Added a modified icedeath state, so frozen corpses would not float indefinitely.
+* Converted sprites to PNG and audio to OGG.
+* Included GLDefs (copied from Death Incarnate submission).
+* Added CREDITS and INFO lumps.
+* Added editor tags to DECORATE.
+* Replaced NULL with TNT1.

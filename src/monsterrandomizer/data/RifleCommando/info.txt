@@ -1,0 +1,10 @@
+Name: Rifle Commando
+Difficulty: Easy
+Connection: none
+Summon: RifleCommando
+Melee: No
+Distance: Hitscan
+Type: Human, Undead
+Brightmaps: Yes
+Added States: AltDeath
+ACS: none

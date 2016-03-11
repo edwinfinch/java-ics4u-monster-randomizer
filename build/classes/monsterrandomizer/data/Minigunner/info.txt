@@ -1,0 +1,13 @@
+Name: Minigunner
+Difficulty: Easy
+Connections: Skulltag Minigun
+Summon: Minigunner
+Melee: No
+Distance: Hitscan
+Type: Human, Undead
+Brightmaps: No
+Added States: No
+ACS: No
+
+
+Armed with a minigun, this zombie will shred you apart with double the firing speed of a chaingunner.

@@ -1,0 +1,9 @@
+Name: Phantasm
+Difficulty: Easy
+Connections: Bullet puff sprites
+Summon: Phantasm
+Melee: No
+Distance: Charge, Explosion
+Type: Demon, Undead
+Added States: No
+ACS: No

@@ -1,0 +1,5 @@
+Decorate: Tormentor667
+GLDEFs: Dreadopp, Virtue (Brightmaps)
+Sounds: Id Software
+Sprites: Id Software
+Sprite Edit: Tormentor667

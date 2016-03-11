@@ -1,0 +1,6 @@
+Decorate: Tormentor667
+GLDEFs: Ghastly Dragon, Sandypaper (Brightmaps)
+Sounds: Id Software (Quake 3 Arena)
+Sprites: Id Software, LucasArts
+Sprite Edit: Rottking
+Idea Base: Serious Sam Aliens

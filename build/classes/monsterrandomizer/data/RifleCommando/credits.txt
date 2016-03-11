@@ -1,0 +1,5 @@
+Decorate: Xim
+GLDEFs: Xim
+Sounds: Id Software
+Sprites: Id Software
+Sprite Edit: David G, Xim

@@ -1,0 +1,8 @@
+Name: Moloch
+Difficulty: Very Hard
+Connection: None
+Summon: Moloch
+Melee: No
+Distance: Projectile, Summon
+Type: Demon, Cybernetic
+Brightmaps: Yes

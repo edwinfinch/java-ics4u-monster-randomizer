@@ -1,0 +1,7 @@
+Submitted: CodenniumRed
+Decorate: CodenniumRed
+GLDefs: Dreadopp
+Sounds: Railbot,
+Sprites: CodenniumRed, Raven (modified from Ettin pauldrons, would you believe it!)
+Sprite Edit: CodenniumRed, Dreadopp (projectile)
+Idea Base: A slightly demonic machine with rending capabilities

@@ -1,0 +1,8 @@
+Name: Rapid Fire Trooper
+Difficulty: Very Easy
+Connection: none
+Summon: RapidFireTrooper
+Melee: No
+Distance: Hitscan
+Type: Human, Undead
+Brightmaps: Yes

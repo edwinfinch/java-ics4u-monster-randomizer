@@ -1,0 +1,8 @@
+Name: Enhanced Cacodemon
+Difficulty: Medium
+Connection: none
+Summon: EnhancedCacodemon
+Melee: No
+Distance: Projectile
+Type: Demon
+Brightmaps: Yes

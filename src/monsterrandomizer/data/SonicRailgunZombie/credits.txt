@@ -1,0 +1,6 @@
+Decorate: Ghastly_dragon
+GLDefs: Ghastly_dragon, Sandypaper (Brightmaps)
+Sprites: Id Software
+Sprite Edit: Xim (Railgun), Ghastly_dragon (Recolor and set up), Captain Toenail (blood stains), Tormentor667 (Base (It used the Zombie Railgunner) ), Vader (Head)
+Sounds: Id Software
+Idea base: Aerial's Sonic Railgun

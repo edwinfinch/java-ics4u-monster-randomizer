@@ -1,0 +1,8 @@
+Name: Sonic Railgun Zombie
+Difficulty: Medium
+Connection: None
+Summon: SonicRailgunZombie
+Melee: No
+Distance: Rail
+Type: Human, Undead
+Brightmaps: Yes

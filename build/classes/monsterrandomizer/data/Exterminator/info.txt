@@ -1,0 +1,11 @@
+Name: Exterminator
+Difficulty: Medium
+Connections: Some Zombieman XDeath sprites
+Summon: Exterminator
+Melee: Yes
+Distance: Hitscan
+Type: Undead, Cybernetic
+Brightmaps: No
+Added States: No
+ACS: No
+Description: These guys were in intensive care when they were possessed. Unable to fight while maimed, the demons added some biomechanic parts and gave them SMGs. They run almost as fast as a Pinky and have a deadly blade for close quarters. They fire full-auto at medium range and in more accurate bursts at longer ranges. He'll dodge your shots sometimes if you aim at him. Better watch yourself in close quarters with these guys.

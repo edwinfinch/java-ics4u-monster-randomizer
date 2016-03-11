@@ -1,0 +1,8 @@
+Name: Rocket Zombie
+Difficulty: Very Easy
+Connection: none
+Summon: RocketGuy
+Melee: No
+Distance: Projectile
+Type: Human, Undead
+Brightmaps: Yes

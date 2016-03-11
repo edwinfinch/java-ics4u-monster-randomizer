@@ -1,0 +1,14 @@
+Name: Shadow Trooper
+Difficulty: Easy
+Connections: Zombieman (sounds)
+Summon: ShadowTrooper, ShadowTrooperCorpse
+Melee: No
+Distance: Hitscan
+Type: Human, Undead
+Brightmaps: Yes
+Added States: No
+ACS: No
+
+
+A semi-transparent zombie trooper suited for low-light conditions. Fires 3 bullets in rapid sequence
+with each attack.

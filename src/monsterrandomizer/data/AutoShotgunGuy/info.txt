@@ -1,0 +1,8 @@
+Name: Auto Shotgun Zombie
+Difficulty: Easy(ish)
+Connections: None
+Palette: Custom
+Summon: ASGGuy
+Melee: None
+Distance: Hitscan
+Type: Undead

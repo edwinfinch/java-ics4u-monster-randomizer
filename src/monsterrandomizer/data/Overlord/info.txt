@@ -1,0 +1,10 @@
+Name: Overlord
+Difficulty: Very Hard
+Connection: Hades Sphere (included)
+Summon: Overlord
+Melee: Yes
+Distance: Projectile, Spawn
+Type: Demon
+Brightmaps: No
+Added States: No
+ACS: No

@@ -1,0 +1,5 @@
+Decorate: Graf Zahl
+GLDEFs: Dreadopp, Sandypaper (Brightmaps)
+Sounds: Id Software
+Sprites: Id Software
+Sprite Edit: The Innocent Crew

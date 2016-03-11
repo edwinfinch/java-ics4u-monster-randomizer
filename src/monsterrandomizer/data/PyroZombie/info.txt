@@ -1,0 +1,18 @@
+Information:
+Name: Pyro Cannon Zombie
+Difficulty: Medium
+Palette: Doom
+Connections: Pyro Cannon from UTnT & Stronghold
+Summon: PyroZombie
+Melee: None
+Distance: Projectile
+Type: Undead
+
+Credits:
+Submitted: scalliano
+Decorate: scalliano, Eriance
+Sounds: Eriance, Raven Software, 3d Realms
+GLDEFs: Keksdose
+Sprites: Id Software, Eriance, 3D Realms
+Sprite Edit: ItsNatureToDie, neoworm, Captain Toenail, Xim, Ghastly_dragon, scalliano
+Idea Base: Pyro Cannon from UTnT & Stronghold

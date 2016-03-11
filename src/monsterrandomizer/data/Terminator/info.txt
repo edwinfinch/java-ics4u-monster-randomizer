@@ -1,0 +1,8 @@
+Name: Terminator
+Difficulty: Very Hard
+Connection: None
+Summon: Terminator 
+Melee: No
+Distance: Projectile, Hitscan
+Type: Demon, Cybernetic
+Brightmaps: Yes

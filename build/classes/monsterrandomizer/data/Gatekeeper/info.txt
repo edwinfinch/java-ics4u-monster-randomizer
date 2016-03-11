@@ -1,0 +1,7 @@
+Name: Gatekeeper
+Difficulty: Very hard
+Connections: Dark Lost Soul
+Summon: Gatekeeper
+Melee: No
+Distance: Projectile, Hitscan, Summon
+Type: Demon, Cybernetic, Magical

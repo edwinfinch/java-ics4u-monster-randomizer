@@ -1,0 +1,5 @@
+Submitted: Vader
+Decorate: Vader
+GLDEFs: Vader, Sandypaper (brightmaps)
+Sounds: Blizzard(Starcraft)/ Vader
+Sprites: Vader

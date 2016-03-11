@@ -1,0 +1,7 @@
+Submitted: zrrion the insect
+Decorate: zrrion the insect
+GLDefs: none
+Sounds: zrrion the insect(see sndinfo for details)
+Sprites: Daniel, ID Software, Zrrion, Skulltag, Cutmanmike
+Sprite Edit: zrrion the insect
+Idea Base: Moloch, Source Guardian

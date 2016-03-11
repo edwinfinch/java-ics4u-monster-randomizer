@@ -1,0 +1,7 @@
+Name: Nailborg
+Difficulty: Medium
+Connection: none
+Summon: NailBorg
+Melee: No
+Distance: Projectile
+Type: Undead, Cybernetic

@@ -1,0 +1,4 @@
+Decorate: Vader
+GLDEFs: Dreadopp, Sandypaper (Brightmaps)
+Sounds: Id Software, Blizzard Entertainment, Vader
+Sprites: Vader, Eriance (cannon base)

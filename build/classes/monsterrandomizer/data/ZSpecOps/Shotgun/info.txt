@@ -1,0 +1,10 @@
+Name: Shotgun ZSpecOps
+Difficulty: Medium
+Connections: Some actors in other ZSpecOps variants
+Summon: ZSpecOpsShotgun
+Melee: No
+Distance: Hitscan
+Type: Human, Undead
+Added States: No
+Brightmaps: Yes
+ACS: n/a

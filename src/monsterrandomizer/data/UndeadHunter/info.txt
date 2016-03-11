@@ -1,0 +1,7 @@
+Name: Undead Hunter
+Difficulty: Easy
+Connections: Undead priest
+Summon: UndeadHunter
+Melee: No
+Distance: Hitscan
+Type: Human, Undead

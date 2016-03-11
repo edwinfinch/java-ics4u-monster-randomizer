@@ -1,0 +1,7 @@
+Submitted: ProjectAngel
+Decorate: ProjectAngel
+GLDefs: ProjectAngel, Sandypaper (Brightmaps)
+Sounds: id Software, Raven Software, Eriance, ProjectAngel
+Sprites: 3d Realms, Raven Software, Rogue Entertainment, Eriance, LilWhiteMouse
+Sprite Edit: Clebardman
+Idea Base: Duke Nukem 3D Cycloid Emperor

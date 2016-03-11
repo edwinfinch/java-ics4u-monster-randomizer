@@ -1,0 +1,8 @@
+Name: Belphegor
+Difficulty: Medium
+Connection: none
+Summon: BelphegorClone
+Melee: No
+Distance: Projectile
+Type: Demon, Fire
+Brightmaps: Yes

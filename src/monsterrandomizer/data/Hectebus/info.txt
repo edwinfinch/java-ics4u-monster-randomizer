@@ -1,0 +1,8 @@
+Name: Hectebus
+Difficulty: Hard
+Connection: None
+Summon: HectebusClone
+Melee: No
+Distance: Projectile
+Type: Demon, Cybernetic
+Brightmaps: Yes

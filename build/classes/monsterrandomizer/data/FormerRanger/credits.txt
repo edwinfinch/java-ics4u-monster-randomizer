@@ -1,0 +1,7 @@
+Submitted: MagicWazard
+Decorate: MagicWazard
+GLDefs: MagicWazard
+Sounds: Midway Software
+Sprites: id Software
+Sprite Edit: MagicWazard
+Idea Base: Replacement for the Wolfenstein SS

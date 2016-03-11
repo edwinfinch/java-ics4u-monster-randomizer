@@ -1,0 +1,6 @@
+Submitted: Eriance
+Decorate: Eriance, Blue Shadow (corpse behavior)
+GLDEFs: Keksdose, Sandypaper (Brightmaps)
+Sounds: Id Software
+Sprites: Eriance
+Idea Base: Quake

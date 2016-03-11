@@ -1,0 +1,6 @@
+Decorate: Captain Toenail
+Sounds: Croteam
+GLDefs: Sandypaper (Brightmaps)
+Sprites: Id software
+Sprite edit: Captain Toenail
+Idea base: Arachnids from Serious Sam

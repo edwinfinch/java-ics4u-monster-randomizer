@@ -1,0 +1,11 @@
+Name : Dark Imp (Netherworld)
+Difficulty : Medium
+Connections : Uses sounds of original Imp
+Summon : NetherDarkImp
+Melee : Yes
+Distance : Projectile
+Type : Demon
+
+// Description \\
+An another Dark Imp variant. This is a little bit tougher than
+other variants.

@@ -1,0 +1,7 @@
+Name: Deep One
+Difficulty: Hard
+Connections: None
+Summon: DeepOne
+Melee: Yes
+Distance: Projectile, Tracer
+Type: Demon, Alien

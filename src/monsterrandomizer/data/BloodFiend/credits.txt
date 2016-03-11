@@ -1,0 +1,6 @@
+Decorate: Eriance
+Sounds: Id Software, Raven Software, Midway
+GLDefs: Sandypaper (Brightmaps)
+Sprites: Id Software
+Sprite Edit: Eriance
+Idea Base: Doom Demon

@@ -1,0 +1,7 @@
+Name: Shade
+Difficulty: Easy
+Connections: None
+Summon: Shade
+Melee: No
+Distance: Projectile, Charge
+Type: Undead, Ghost

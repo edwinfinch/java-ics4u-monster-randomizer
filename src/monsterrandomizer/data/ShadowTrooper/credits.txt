@@ -1,0 +1,7 @@
+Submitted: MagicWazard
+Decorate: MagicWazard
+GLDefs: MagicWazard
+Sounds: Midway Software
+Sprites: id Software
+Sprite Edit: MagicWazard
+Idea Base: Wanted a shadowy-type of zombie for low-light conditions

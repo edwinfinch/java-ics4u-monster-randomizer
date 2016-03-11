@@ -1,0 +1,5 @@
+Decorate: DBThanatos
+GLDEFs: Dreadopp, Virtue (Brightmaps)
+Sounds: Blizzard (Diablo)
+Sprites: Id Software
+Sprite Edit: Jimmy

@@ -1,0 +1,10 @@
+Name: Blood Skull
+Difficulty: Easy
+Connections: None
+Summon: BloodSkull
+Melee: No
+Distance: Projectile
+Type: Demon, Undead
+Brightmaps: No
+Added States: No
+ACS: No

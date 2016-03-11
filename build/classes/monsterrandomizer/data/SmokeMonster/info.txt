@@ -1,0 +1,17 @@
+Info
+Name: Smoke Monster
+Difficulty: Very Hard
+Connection: KirkResurrecter
+Summon: smokemonster
+Melee: Yes
+Distance: A_SkullAttack
+Type: evil
+
+Credits
+Submitted: Zrrion the insect
+Decorate: Zrrion the insect, DBT
+GLDEFs: Zrrion the insect
+Sounds: Michael Giacchino
+Sprites: Duke Nukem 3D, Id Software
+Sprite Edit: Zrrion the insect
+Idea Base: LOST

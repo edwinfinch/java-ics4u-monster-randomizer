@@ -1,0 +1,5 @@
+Decorate: Tormentor667
+GLDEFs: Ghastly Dragon, Keksdose, Sandypaper (Brightmaps)
+Sounds: Id Software
+Sprites: Id Software
+Sprite Edit: Tormentor667, Vader (skull death ani) 

@@ -1,0 +1,12 @@
+Name: Diabolist
+Difficulty: Very Hard
+Connection: Uses Cleric Firestorm missile
+Summon: Diabloist
+Melee: No
+Distance: Projectile, Hitscan
+Type: Demon, Alien
+Brightmaps: Yes
+
+Modder note: One of its attacks is basically a copy of the Cleric Firestorm. If
+You use this in Hexen, you can delete the accompanying sounds, SndInfo entry and
+sprites.

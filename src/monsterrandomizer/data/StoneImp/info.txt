@@ -1,0 +1,16 @@
+Name: Stone Imp
+Difficulty: Easy
+Connection: None
+Summon: StoneImp
+Melee: Yes
+Distance: None
+Type: Demon, Elemental
+Brightmaps: No
+Added States: No
+ACS: No
+
+
+An Imp variant with no projectile attack. Bit more health than the Imp, but just
+as slow and can only melee. It is completely immune to electric/lightning and
+poison based-attacks, has decent resistant to fire-based attacks. but slightly weak
+against ice-based attacks.

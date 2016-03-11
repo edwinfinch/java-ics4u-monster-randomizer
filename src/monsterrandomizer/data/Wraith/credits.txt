@@ -1,0 +1,6 @@
+Submitted: Ghastly_dragon
+Decorate: Ghastly_dragon
+Sprites: Vader
+Sprite Edit: Captain Toenail
+Sounds: Id Software
+Idea Base: Doom 3's Wraith

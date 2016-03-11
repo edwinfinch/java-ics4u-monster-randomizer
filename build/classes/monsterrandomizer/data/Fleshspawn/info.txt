@@ -1,0 +1,7 @@
+Name: FleshSpawn
+Difficulty: Easy
+Connection: None
+Summon: FleshSpawn
+Melee: No
+Distance: Projectile, Charge
+Type: Demon

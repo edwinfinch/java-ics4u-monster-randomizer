@@ -1,0 +1,7 @@
+Name: Double Chaingunner
+Difficulty: Medium
+Connection: None
+Summon: ChaingunGuy2
+Melee: No
+Distance: Projectile
+Type: Human, Undead

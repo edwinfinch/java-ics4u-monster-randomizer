@@ -1,0 +1,7 @@
+Name: Zombie Henchman
+Difficulty: Easy
+Connections: None
+Summon: Zombiehenchman, Zombiehenchmansmaller
+Melee: No
+Distance: Hitscan
+Type: Human, Undead

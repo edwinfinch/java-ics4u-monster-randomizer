@@ -1,0 +1,5 @@
+Decorate: Tormentor667
+GLDEFs: Ghastly Dragon, Sandypaper (Brightmaps)
+Sounds: Id Software, Vader
+Sprites: Id Software, Raven Software
+Sprite Edit: Neoworm, Tormentor667

@@ -1,0 +1,7 @@
+Name: Imp Abomination
+Difficulty: Medium
+Connection: None
+Summon: ImpAbomination
+Melee: Yes
+Distance: Projectile
+Type: Demon

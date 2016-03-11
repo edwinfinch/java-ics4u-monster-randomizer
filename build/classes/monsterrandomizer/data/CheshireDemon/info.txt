@@ -1,0 +1,17 @@
+Information:
+Name: Cheshire Caco-demon
+Difficulty: medium
+Connections: None
+Summon: Cheshire
+Melee: No
+Distance: projectile
+Type: Demon
+
+Credits:
+Submitted: zrrion the insect
+Decorate: zrrion the insect
+GLDefs: zrrion the insect
+Sounds: zrrion the insect
+Sprites: ID Software
+Sprite Edit: zrrion the insect
+Idea Base: Alice in Wonderland

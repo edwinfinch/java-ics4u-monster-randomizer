@@ -1,0 +1,8 @@
+Submitted: Xim
+Decorate: Xim
+GLDEFs: Xim
+Sounds: Raven Software
+Sprites: Id Software
+Sprite Edit: Xim
+
+Some misc. improvements by Ghastly

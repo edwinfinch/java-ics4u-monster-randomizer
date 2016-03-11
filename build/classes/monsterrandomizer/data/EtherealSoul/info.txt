@@ -1,0 +1,13 @@
+Name: Ethereal Soul
+Difficulty: Medium
+Connection: Uses Shadow projectiles, included
+Summon: ESoul
+Melee: No
+Distance: Projectile, Charge
+Type: Demon, Undead
+Brightmaps: Yes
+
+Because of the nature of the brightmaps added, the monster is no longer full-
+bright if you have brightmaps enabled. I'm leaving this up to the modder's
+choice.
+     -Ghastly

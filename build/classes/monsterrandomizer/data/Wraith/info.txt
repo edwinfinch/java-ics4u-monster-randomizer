@@ -1,0 +1,14 @@
+Name: Wraith
+Difficulty: Easy
+Connections: None
+Summon: D3Wraith
+Melee: Yes
+Distance: Teleport
+Type: Demon
+Added States: No
+
+Modder notes:
+If the first argument is non-0, it'll teleport immediately on sight.
+
+If the second argument is non-0, it won't need to see the player to
+teleport. It's more aggressive, this way.

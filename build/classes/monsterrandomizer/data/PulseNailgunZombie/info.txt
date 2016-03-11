@@ -1,0 +1,15 @@
+Name: Pulse Nailgun Zombie
+Difficulty: Medium
+Connections: Pulse Nailgun
+Summon: PNZombie
+Melee: No
+Distance: Projectile
+Type: Demon, Undead
+
+Submitted: Zrrion the insect
+Decorate: Zrrion the insect
+GLDefs: Zrrion the insect
+Sounds: Quake 4 (id software), Doom (id software)
+Sprites: DE, Skulltag
+Sprite Edit: Zrrion the insect
+Idea Base: Pulse Nailgun

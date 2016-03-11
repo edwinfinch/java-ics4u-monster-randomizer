@@ -1,0 +1,5 @@
+Decorate: Tormentor667
+GLDefs: Sandypaper (Brightmaps)
+Sounds: Id Software
+Sprites: Id Software
+Sprite Edit: Tormentor667

@@ -1,0 +1,7 @@
+Name: Stalker
+Difficulty: Easy
+Summon: OutcastStalker
+Connection: None
+Melee: None
+Distance: Projectile, Teleport
+Type: Demon, Undead

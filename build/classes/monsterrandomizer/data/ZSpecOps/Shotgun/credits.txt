@@ -1,0 +1,5 @@
+Decorate: Ghastly_dragon
+GLDefs: Ghastly_dragon, MagicWazard (brightmaps)
+Sprites: Id Software
+Sprite Edit: Mark Quinn, Vegeta, Ghastly_dragon, MagicWazard
+Sounds: Id Software

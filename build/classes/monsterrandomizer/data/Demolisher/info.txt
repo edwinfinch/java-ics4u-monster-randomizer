@@ -1,0 +1,8 @@
+Name: Demolisher
+Difficulty: Very Hard
+Connection: none
+Summon: Demolisher
+Melee: No
+Distance: Projectile
+Type: Demon, Cybernetic
+Brightmaps: Yes

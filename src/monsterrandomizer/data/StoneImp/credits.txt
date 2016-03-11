@@ -1,0 +1,5 @@
+Submitted: Tormentor667, Blue Shadow (update)
+Decorate: Espi, Blue Shadow (stone bits SFX - based on Nash's nashgore code)
+Sounds: id Software, Raven Software (Hexen) for the attack, Bungie for hit sound
+Sprites: id Software, Blue Shadow (stone bits)
+Sprite Edit: Espi, Vader

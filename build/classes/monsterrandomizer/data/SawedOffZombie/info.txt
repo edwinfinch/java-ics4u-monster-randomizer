@@ -1,0 +1,10 @@
+Name: Sawed-Off Shotgun Zombie
+Difficulty: Easy
+Connection: None
+Summon: SawedOffShotgunGuy
+Melee: None
+Distance: Hitscan
+Type: Human, Undead
+Brightmaps: Yes
+Added States: No
+ACS: No

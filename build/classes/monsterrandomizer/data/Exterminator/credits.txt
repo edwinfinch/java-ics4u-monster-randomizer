@@ -1,0 +1,7 @@
+Submitted: TheMightyHeracross
+Decorate: TheMightyHeracross
+GLDefs: Graf Zhal (lights.pk3)
+Sounds: id (Knight Sounds, SMG shoot, and blade swing), Rogue (Blade hit)
+Sprites: The Innocent Crew (Head), osjclatchford (Pistol Zombie), Colin Portratz (SMG taken from G99 skin), Rogue (Blade from Reaver, edited), id ( base for gib Sprites), David G and Minigunner (Alternate death frame base)
+Sprite Edit: TheMightyHeracross
+Idea Base: Idea started as a humanoid form of a Reaver

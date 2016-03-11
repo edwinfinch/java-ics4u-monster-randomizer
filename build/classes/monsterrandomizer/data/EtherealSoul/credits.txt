@@ -1,0 +1,6 @@
+Submitted: Neoworm
+Decorate: Neoworm
+GLDEFs: Ghastly Dragon, Sandypaper (Brightmaps)
+Sounds: Id Software
+Sprites: Id Software
+Sprite Edit: Neoworm, Vader (projectiles)
