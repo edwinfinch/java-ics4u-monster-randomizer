@@ -1,0 +1,7 @@
+Name: Blot
+Difficulty: Easy
+Connection: None
+Summon: Blot
+Melee: Yes
+Distance: None
+Type: Demon

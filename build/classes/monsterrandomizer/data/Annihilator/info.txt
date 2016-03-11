@@ -1,0 +1,8 @@
+Name: Annihilator
+Difficulty: Very Hard
+Connection: none
+Summon: Annihilator
+Melee: No
+Distance: Projectile
+Type: Demon, Cybernetic
+Brightmaps: Yes

@@ -1,0 +1,8 @@
+Name: Bloodfiend
+Difficulty: Medium
+Connection: none
+Summon: Bloodfiend, Lurker
+Melee: Yes
+Distance: Projectile
+Type: Demon
+Brightmaps: Yes

@@ -1,0 +1,6 @@
+Submitted: scalliano
+Decorate: scalliano
+Sounds: none
+Sprites: Id Software
+Sprite Edit: ItsNatureToDie, neoworm
+Idea Base: Lack of a decent BFG zombie

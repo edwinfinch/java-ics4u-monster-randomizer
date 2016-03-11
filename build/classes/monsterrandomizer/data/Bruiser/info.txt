@@ -1,0 +1,17 @@
+Name: Bruiser Demon
+Difficulty: Hard
+Connection: none
+Summon: BruiserDemon
+Melee: Yes
+Distance: Projectile
+Type: Demon
+Brightmaps: Yes
+
+The Bruiser Demon has both dynamic lights and brightmaps on the main monster,
+and unfortunately the dynamic lights tend to cover up the brightmaps. It's up to
+the user to decide whether or not they want to keep both, or remove one effect
+or the other.
+
+
+May God have mercy on whoever tries to update this thing's GLDefs...
+           -Ghastly

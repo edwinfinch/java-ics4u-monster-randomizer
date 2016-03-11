@@ -1,0 +1,8 @@
+Name: Blood Demon
+Difficulty: Medium
+Connection: none
+Summon: BloodDemonClone
+Melee: Yes
+Distance: None
+Type: Demon, Cybernetic
+Brightmaps: Yes

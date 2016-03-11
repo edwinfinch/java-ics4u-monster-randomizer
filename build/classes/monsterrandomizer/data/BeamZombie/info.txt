@@ -1,0 +1,14 @@
+Name: PlasmaBeam Zombie
+Difficulty: Medium
+Connection: none
+Summon: BeamGuy
+Melee: No
+Distance: Projectile
+Type: Human, Undead
+Brightmaps: Yes
+
+Decorate: Captain Toenail
+GLDEFs: Sandypaper (Brightmaps)
+Sounds: UT2K4, Quake2
+Sprites: Id Software
+Sprite Edit: Captain Toenail, Ghastly Dragon

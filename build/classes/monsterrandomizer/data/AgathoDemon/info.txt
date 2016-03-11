@@ -1,0 +1,8 @@
+Name: Agathodemon
+Difficulty: Medium
+Connection: None
+Summon: Agathodemon, AnotherAgathodemon
+Melee: Yes
+Distance: Projectile, Tracer
+Type: Demon
+Brightmaps: Yes

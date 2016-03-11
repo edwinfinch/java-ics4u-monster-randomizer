@@ -1,0 +1,7 @@
+Name: BFG Commando
+Difficulty: Medium
+Connections: None
+Summon: BFGGuy
+Melee: None
+Distance: Projectile
+Type: Undead
